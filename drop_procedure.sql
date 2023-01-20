@@ -1,0 +1,1 @@
+drop procedure get_invoice_;
